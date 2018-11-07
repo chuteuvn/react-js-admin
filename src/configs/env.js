@@ -1,0 +1,1 @@
+export const SERVER = "https://api-shipdauroi.ixosoftware.com"
